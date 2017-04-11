@@ -20,7 +20,14 @@ public class Aulaherancajava {
         Presidente presidente= new Presidente("José", 15000);
                 
             
-        System.out.println(gerente.salario);;
+        System.out.println(gerente.nome);
+        System.out.println(Motorista.nome);
+        System.out.println(Secretaria.nome);
+        System.out.println(Contador.nome);
+        System.out.println(supervisor.nome);
+        System.out.println(presidente.nome);
+         
+        
     }
     
 }

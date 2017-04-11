@@ -3,7 +3,7 @@ package aulaherancajava;
 
 /** @author JEAN*/
 public class Presidente {
-    private String nome;
+    String nome;
     private double ParticLucros;
 
     public String getNome() {

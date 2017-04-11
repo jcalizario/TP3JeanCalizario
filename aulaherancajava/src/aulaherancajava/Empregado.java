@@ -5,7 +5,7 @@ import java.util.GregorianCalendar;
 
 public class Empregado {
     
-    private String nome;
+    String nome;
     double salario;
     private Date dataContratacao;
 
