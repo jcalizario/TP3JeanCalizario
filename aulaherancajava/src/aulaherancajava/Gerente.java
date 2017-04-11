@@ -3,9 +3,9 @@ public class Gerente extends Empregado {
     private double bonus;
 
     public Gerente(String n, double s, int ano, int mes, int dia) {
-        super(n, s, ano, mes, dia);
+        super(n, s, ano, mes, dia); //EXERCICIO 3
         
-        bonus =0;
+        bonus= 2000;
     } 
 
  
@@ -18,7 +18,7 @@ public class Gerente extends Empregado {
     public void setBonus(double b)
     {
     bonus = b;
-}
+    }
 } 
 
     
