@@ -1,13 +1,13 @@
 
 package aulaherancajava;
-import java.util.ArrayList;
+
 
 /** * @author JEAN */
 public class Aulaherancajava {
     
     public static void main(String[] args) {
-      Arraylist<String> empregados = new Arraylist();
-      
+     
+   
         Gerente gerente = new Gerente("Andre", 3000, 1981, 12, 8);
         gerente.setBonus(10000);
         
